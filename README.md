@@ -34,4 +34,9 @@
 [图解HTTP](https://book.douban.com/subject/25863515/) 
 
 ### Architecture
-[大型网站技术架构](https://book.douban.com/subject/25723064/)
+[大型网站技术架构](https://book.douban.com/subject/25723064/)       - 不错的入门书
+
+## 2018：
+
+### OS
+[深入理解计算机系统](https://book.douban.com/subject/26912767/)      - 只能说看懂了，但是收效甚微，可能是我层次不够
