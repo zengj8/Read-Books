@@ -1,7 +1,7 @@
 # 我曾经读过的那些书：
 
 
-## 2017：
+## 2017
 
 ### Javascript
 [~~JavaScript DOM编程艺术（第二版）~~](https://book.douban.com/subject/6038371/)   
@@ -36,10 +36,12 @@
 ### Architecture
 [大型网站技术架构](https://book.douban.com/subject/25723064/)  
 
-## 2018：
+## 2018
 
 ### OS
 [深入理解计算机系统](https://book.douban.com/subject/26912767/) 
 
 ### Java
-[~~Java核心技术·卷 I（原书第10版）~~](https://book.douban.com/subject/26880667/)  
+[~~Java核心技术·卷I（原书第10版）~~](https://book.douban.com/subject/26880667/)  
+[~~Java核心技术·卷II（原书第10版）~~](https://book.douban.com/subject/27165931/)  
+
