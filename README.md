@@ -43,7 +43,9 @@
 
 ### Java
 [~~Java核心技术·卷I（原书第10版）~~](https://book.douban.com/subject/26880667/)  
-[~~Java核心技术·卷II（原书第10版）~~](https://book.douban.com/subject/27165931/)  
+[~~Java核心技术·卷II（原书第10版）](https://book.douban.com/subject/27165931/)  
 [~~Java多线程编程核心技术~~](https://book.douban.com/subject/26555197/)  
 [Java并发编程的艺术](https://book.douban.com/subject/26591326/)  
-[深入理解Java虚拟机（第2版）](https://book.douban.com/subject/24722612/)
+[深入理解Java虚拟机（第2版）](https://book.douban.com/subject/24722612/)   
+[Maven实战](https://book.douban.com/subject/5345682/)   
+
