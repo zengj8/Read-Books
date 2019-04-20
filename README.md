@@ -47,5 +47,9 @@
 [~~Java多线程编程核心技术~~](https://book.douban.com/subject/26555197/)  
 [Java并发编程的艺术](https://book.douban.com/subject/26591326/)  
 [深入理解Java虚拟机（第2版）](https://book.douban.com/subject/24722612/)   
-[Maven实战](https://book.douban.com/subject/5345682/)   
+[Maven实战](https://book.douban.com/subject/5345682/)  
 
+## 2019
+
+### Git  
+[猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/contents/)
