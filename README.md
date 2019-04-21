@@ -52,4 +52,7 @@
 ## 2019
 
 ### Git  
-[猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/contents/)
+[猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/contents/)   
+
+### Java
+[~~Java 8函数式编程~~](https://book.douban.com/subject/26346017/)   
