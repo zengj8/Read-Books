@@ -56,3 +56,7 @@
 
 ### Java
 [~~Java 8函数式编程~~](https://book.douban.com/subject/26346017/)   
+
+### Other
+[从极简到极致：在擅长的领域做一个厉害的人
+](https://book.douban.com/subject/30270124/)  
