@@ -61,5 +61,5 @@
 [从极简到极致：在擅长的领域做一个厉害的人
 ](https://book.douban.com/subject/30270124/)  
 [非暴力沟通](https://book.douban.com/subject/3533221/)  
-
+[富爸爸穷爸爸](https://book.douban.com/subject/1033778/)  
 
