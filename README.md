@@ -57,6 +57,9 @@
 ### Java
 [~~Java 8函数式编程~~](https://book.douban.com/subject/26346017/)   
 
+### Elasticsearch
+[~~Elasticsearch服务器开发（第2版）~~](https://book.douban.com/subject/26318087/)
+
 ### Other
 [从极简到极致：在擅长的领域做一个厉害的人
 ](https://book.douban.com/subject/30270124/)  
