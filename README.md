@@ -61,8 +61,7 @@
 [~~Elasticsearch服务器开发（第2版）~~](https://book.douban.com/subject/26318087/)
 
 ### Other
-[从极简到极致：在擅长的领域做一个厉害的人
-](https://book.douban.com/subject/30270124/)  
+[~~从极简到极致：在擅长的领域做一个厉害的人~~](https://book.douban.com/subject/30270124/)  
 [非暴力沟通](https://book.douban.com/subject/3533221/)  
 [富爸爸穷爸爸](https://book.douban.com/subject/1033778/)  
 
