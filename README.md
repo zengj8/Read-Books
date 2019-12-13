@@ -64,9 +64,15 @@
 ### Elasticsearch
 [~~Elasticsearch服务器开发（第2版）~~](https://book.douban.com/subject/26318087/)
 
+### Zookeeper
+[ZooKeeper:分布式过程协同技术详解](https://book.douban.com/subject/26766807/)    
+
 ### Other
 [~~从极简到极致：在擅长的领域做一个厉害的人~~](https://book.douban.com/subject/30270124/)  
 [非暴力沟通](https://book.douban.com/subject/3533221/)  
 [富爸爸穷爸爸](https://book.douban.com/subject/1033778/)  
 [智能革命](https://book.douban.com/subject/27017609/)  
+[当我谈跑步时，我谈些什么](https://book.douban.com/subject/4872222/)   
+
+
 
