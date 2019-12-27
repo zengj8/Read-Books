@@ -67,6 +67,10 @@
 ### Zookeeper
 [ZooKeeper:分布式过程协同技术详解](https://book.douban.com/subject/26766807/)    
 
+### MQ
+[分布式消息中间件实践
+](https://book.douban.com/subject/30337995/)    
+
 ### Other
 [~~从极简到极致：在擅长的领域做一个厉害的人~~](https://book.douban.com/subject/30270124/)  
 [非暴力沟通](https://book.douban.com/subject/3533221/)  
