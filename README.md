@@ -78,5 +78,12 @@
 [智能革命](https://book.douban.com/subject/27017609/)  
 [当我谈跑步时，我谈些什么](https://book.douban.com/subject/4872222/)   
 
+## 2020
+
+### ￥$
+[菜鸟看财务报表一学就会
+](https://book.douban.com/subject/25733327/)     
+
+
 
 
