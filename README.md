@@ -100,7 +100,7 @@
 
 ### Other      
 [番茄工作法图解](https://book.douban.com/subject/26099295/)   
-[俗世奇人](https://book.douban.com/subject/3389984/)
-
+[俗世奇人](https://book.douban.com/subject/3389984/)   
+[解忧杂货店](https://book.douban.com/subject/25862578/)   
 
 
