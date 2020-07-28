@@ -97,7 +97,8 @@
 
 ### BigData
 [~~大数据时代~~](https://book.douban.com/subject/20429677/)   
-[~~Hive编程指南~~](https://book.douban.com/subject/25791255/)
+[~~Hive编程指南~~](https://book.douban.com/subject/25791255/)   
+[大数据之路 阿里巴巴大数据实践](https://book.douban.com/subject/27074564/)    
 
 ### Other      
 [番茄工作法图解](https://book.douban.com/subject/26099295/)   
