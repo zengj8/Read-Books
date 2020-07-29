@@ -110,3 +110,6 @@
 [~~Spark快速大数据分析~~](https://book.douban.com/subject/26616244/)    
 
 
+### Hive
+[~~Hive编程指南~~](https://book.douban.com/subject/25791255/)    
+
