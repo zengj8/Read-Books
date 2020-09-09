@@ -105,6 +105,7 @@
 [俗世奇人](https://book.douban.com/subject/3389984/)   
 [解忧杂货店](https://book.douban.com/subject/25862578/)   
 [悟空传](https://book.douban.com/subject/6431994/)   
+[心的处方笺](https://book.douban.com/subject/24527645/)
 
 ### Spark
 [~~Spark快速大数据分析~~](https://book.douban.com/subject/26616244/)    
