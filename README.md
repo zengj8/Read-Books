@@ -114,3 +114,7 @@
 ### Hive
 [~~Hive编程指南~~](https://book.douban.com/subject/25791255/)    
 
+### Java
+[~~Java多线程与大数据处理实战~~](https://book.douban.com/subject/35103733/)
+
+
