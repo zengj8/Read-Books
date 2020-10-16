@@ -115,6 +115,8 @@
 
 ### Hive
 [~~Hive编程指南~~](https://book.douban.com/subject/25791255/)    
+[Hive性能调优实战](https://book.douban.com/subject/34940221/)
+
 
 ### Java
 [~~Java多线程与大数据处理实战~~](https://book.douban.com/subject/35103733/)
@@ -122,5 +124,7 @@
 ### Search
 [这就是搜索引擎](https://book.douban.com/subject/7006719/)   
 
+### DB
+[NoSQL精粹](https://book.douban.com/subject/25662138/)
 
 
