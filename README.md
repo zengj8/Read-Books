@@ -119,7 +119,8 @@
 
 
 ### Java
-[~~Java多线程与大数据处理实战~~](https://book.douban.com/subject/35103733/)
+[~~Java多线程与大数据处理实战~~](https://book.douban.com/subject/35103733/)  
+[~~分布式中间件技术实战（Java版）~~](https://book.douban.com/subject/34909695/)
 
 ### Search
 [这就是搜索引擎](https://book.douban.com/subject/7006719/)   
